@@ -1,4 +1,4 @@
-## Hi! I'm Chad.
+## Hi! I'm Aguero.
 
 If you like what you see here, feel free to follow or contribute.
 
