@@ -4,7 +4,7 @@ If you like what you see here, feel free to follow or contribute.
 
 Since GitHub so kindly provided this template...
 
-- 🔭 I’m currently working on: my blog at [aguerowindah.vercel.app](https://aguerowindah.vercel.app)
+- 🔭 I’m currently working on: my blog at [aguero.vercel.app](https://aguero.vercel.app)
 - 🌱 I’m currently learning: All sorts of things...HTML, CSS, Javascript, Tailwind CSS, Bootstrap,  Jekyll/Liquid. And Full stack development.
 - 📫 How to reach me: [here](https://aguerowindah.vercel.app/#contact)
 - 😄 Pronouns: he/him
