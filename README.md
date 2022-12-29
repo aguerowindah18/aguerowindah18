@@ -15,4 +15,4 @@ Since GitHub so kindly provided this template...
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aguerowindah18&layout=compact&theme=github_dark&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod)](https://github.com/anuraghazra/github-readme-stats)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=aguerowindah18)](https://github.com/anuraghazra/github-readme-stats)
